@@ -1,0 +1,79 @@
+{
+  "store": {
+    "profile": {
+      "name": "dane-se",
+      "img": "img/logo.png",
+      "followers": 600,
+      "following": 310,
+      "collections": 7,
+      "likes": 1140,
+      "description": "Produzido em Brasília."
+    },
+    "timeline": [
+      {
+        "id": 1,
+        "name": "Coleção Bossa Nova",
+        "img": "img/first.png",
+        "likes": 5349,
+        "tags": [
+          "bossa",
+          "verão",
+          "dane-se",
+          "copacabana"
+        ],
+        "dots": [
+          {
+            "x": 15,
+            "y": 7
+          },
+          {
+            "x": 11,
+            "y": 97
+          },
+          {
+            "x": 44,
+            "y": 142
+          },
+          {
+            "x": 89,
+            "y": 101
+          },
+          {
+            "x": 120,
+            "y": 85
+          },
+          {
+            "x": 187,
+            "y": 7
+          },
+          {
+            "x": 190,
+            "y": 142
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Coleção Inverno",
+        "img": "img/second.png",
+        "likes": 1800,
+        "tags": [
+          "bluestorm",
+          "inverno",
+          "dane-se",
+          "gramado"
+        ],
+        "dots": [
+          {
+            "x": 98,
+            "y": 70
+          },
+          {
+            "x": 241,
+            "y": 94
+          }
+        ]
+      }
+    ]
+  }
+}

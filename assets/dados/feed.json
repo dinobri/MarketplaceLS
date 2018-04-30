@@ -1,0 +1,79 @@
+{
+  "store": {
+    "profile": {
+      "name": "dane-se",
+      "img": "data:image/png;base64,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",
+      "followers": 600,
+      "following": 310,
+      "collections": 7,
+      "likes": 1140,
+      "description": "Produzido em Brasília."
+    },
+    "timeline": [
+      {
+        "id": 1,
+        "name": "Coleção Bossa Nova",
+        "img": "../img/first.png",
+        "likes": 5349,
+        "tags": [
+          "bossa",
+          "verão",
+          "dane-se",
+          "copacabana"
+        ],
+        "dots": [
+          {
+            "x": 15,
+            "y": 7
+          },
+          {
+            "x": 11,
+            "y": 97
+          },
+          {
+            "x": 44,
+            "y": 142
+          },
+          {
+            "x": 89,
+            "y": 101
+          },
+          {
+            "x": 120,
+            "y": 85
+          },
+          {
+            "x": 187,
+            "y": 7
+          },
+          {
+            "x": 190,
+            "y": 142
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Coleção Inverno",
+        "img": "../img/second.png",
+        "likes": 1800,
+        "tags": [
+          "bluestorm",
+          "inverno",
+          "dane-se",
+          "gramado"
+        ],
+        "dots": [
+          {
+            "x": 98,
+            "y": 70
+          },
+          {
+            "x": 241,
+            "y": 94
+          }
+        ]
+      }
+    ]
+  }
+}
